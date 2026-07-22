@@ -1,0 +1,171 @@
+[ 
+		{
+		"id" : "1",
+		"name" : "Naruto Uzumaki",
+		"varient" : "Sage Mode",
+		"image" : "null",
+		"category" : "S",
+		"level" : "1",
+		"xp" : "0",
+		"power" : "2500",
+		"owned" : "false"
+	},
+	{
+		"id" : "2",
+		"name" : "Uchiha Sasuke",
+		"varient" : "shippuden",
+		"image" : "null",
+		"category" : "S",
+		"level" : "1",
+		"xp" : "0",
+		"power" : "2100",
+		"owned" : "false"
+	},
+	{
+		"id" : "3",
+		"name" : "Sakura Haruno",
+		"varient" : "Boruto:NNG",
+		"image" : "null",
+		"category" : "S",
+		"level" : "1",
+		"xp" : "0",
+		"power" : "2350",
+		"owned" : "false"
+	},
+	{
+		"id" : "4",
+		"name" : "Kakashi Hatake",
+		"varient" : "Copy Ninja",
+		"image" : "null",
+		"category" : "S",
+		"level" : "1",
+		"xp" : "0",
+		"power" : "2450",
+		"owned" : "false"
+	},
+	{
+		"id" : "5",
+		"name" : "Sasuke Uchiha",
+		"varient" : "Team 7",
+		"image" : "null",
+		"category" : "B",
+		"level" : "1",
+		"xp" : "0",
+		"power" : "1425",
+		"owned" : "false"
+	},
+	{
+		"id" : "6",
+		"name" : "Hinata Hyuga",
+		"varient" : "shippuden",
+		"image" : "null",
+		"category" : "s",
+		"level" : "1",
+		"xp" : "0",
+		"power" : "2200",
+		"owned" : "false"
+	},
+	{
+		"id" : "7",
+		"name" : "Kin Tsuchi",
+		"varient" : "chunin exams",
+		"image" : "null",
+		"category" : "c",
+		"level" : "1",
+		"xp" : "0",
+		"power" : "900",
+		"owned" : "false"
+	},
+	{
+		"id" : "8",
+		"name" : "Yukata",
+		"varient" : "Sunagakure Kunoichi",
+		"image" : "null",
+		"category" : "c",
+		"level" : "1",
+		"xp" : "0",
+		"power" : "850",
+		"owned" : "false"
+	},
+	{
+		"id" : "9",
+		"name" : "Tsunade Senju",
+		"varient" : "Fifth Hokage",
+		"image" : "null",
+		"category" : "s",
+		"level" : "1",
+		"xp" : "0",
+		"power" : "2800",
+		"owned" : "false"
+	},
+	{
+		"id" : "10",
+		"name" : "Kushina Uzumaki",
+		"varient" : "Jinchuriki",
+		"image" : "null",
+		"category" : "A",
+		"level" : "1",
+		"xp" : "0",
+		"power" : "1925",
+		"owned" : "false"
+	},
+	{
+		"id" : "11",
+		"name" : "Rin Nohara",
+		"varient" : "Team Minato",
+		"image" : "null",
+		"category" : "B",
+		"level" : "1",
+		"xp" : "0",
+		"power" : "1200",
+		"owned" : "false"
+	},
+	{
+		"id" : "12",
+		"name" : "Kaguya Otsutsuki",
+		"varient" : "Mother of chakra",
+		"image" : "null",
+		"category" : "SS",
+		"level" : "1",
+		"xp" : "0",
+		"power" : "5000",
+		"owned" : "false"
+	},
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+]
